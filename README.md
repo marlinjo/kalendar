@@ -1,4 +1,4 @@
-# kalendar
+# Raspored -> Google Cal
 Za brzo prebacivanje rasporeda iz ZZR excelice u Google Calendar
 
 Trenutna verzija ne radi za specijaliste zbog "T/T5j" "V/dež", "x" i sličnih smjena, u slučaju interesa će se riješiti nešto
