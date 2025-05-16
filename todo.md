@@ -1,3 +1,1 @@
-- [ ] Ubaciti Šalata lokaciju za T24 / N24
-- [ ] Specijalističke smjene
-- [ ] S kim radim?
+
