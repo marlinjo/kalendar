@@ -4,7 +4,7 @@ Za brzo prebacivanje rasporeda iz ZZR excelice u Google Calendar
 TODO:
 - [ ] Ubaciti Šalata lokaciju za T24 / N24
 - [ ] Specijalističke smjene
-- [ ] S kim radim?
+- [x] S kim radim? - done
 
 
 [Tutorial video](https://www.youtube.com/watch?v=E5Vtaitaquc)
